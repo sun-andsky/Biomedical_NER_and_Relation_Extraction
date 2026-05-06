@@ -25,6 +25,10 @@ A biomedical NLP pipeline built using PubMedBERT for Chemical/Disease Named Enti
 
 - BC5CDR (BioCreative V Chemical Disease Relation Dataset)
 - 95,000+ labeled biomedical tokens
+- 
+## Interface
+![image](Assets/2.png)
+![image](Assets/1.png)
 
 ## Example
 
