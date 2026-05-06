@@ -1,5 +1,4 @@
 # Biomedical_NER_and_Relation_Extraction
-# BC5CDR — Biomedical NER + Relation Extraction Pipeline
 
 A biomedical NLP pipeline built using PubMedBERT for Chemical/Disease Named Entity Recognition (NER) and Chemical–Disease Relation Extraction on the BC5CDR dataset.
 
